@@ -12,9 +12,9 @@
   },
   "test": {
     "username": "postgres",
-    "password": "tbGgpMdtyT0DpBXCqrEx",
-    "database": "db_ticket_test",
-    "host": "127.0.0.1",
+    "password": "OcPWsuqvygqFCLxbsSXUGUuoHrsJbRsm",
+    "database": "railway",
+    "host": "postgres.railway.internal",
     "dialect": "postgres"
   },
   "production": {
